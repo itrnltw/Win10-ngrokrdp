@@ -6,4 +6,6 @@
 3, Download the following link.
 https://drive.google.com/file/d/1NqBPK5c3xjVAHnBSxsBb_zCE5uRyKw4C/view
 
-4, Go to settings and press
+4, Go to settings and press "Secrets and variables", and press create "New repository secret" and name the Secret "NGROK_AUTH_TOKEN", go to ngrok.com again and copy your auth token and paste it on the big box.
+
+5, Go to Actions and press 
