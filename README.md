@@ -10,4 +10,4 @@
 
 5, Go to "ngrok.com" and click on Cloud Edge and Endpoints and copy the URL Text but not the "tcp://" (example: 0.tcp.ngrok.io:17241)
 
-6, Download "RD Client" on the play store and wait for the app to finish, once its done downloading, open the app, press on the "+" Button and press desktop, enter the PC name that you copied in "ngrok.com" URL, and click the arrow looking down and select "Add user account"
+6, Download "Remote desktop" on the play store and wait for the app to finish, once its done downloading, open the app, press on the "+" Button and "add PC", enter the PC name that you copied in "ngrok.com" URL, and click the arrow looking down and select "Add user account"
