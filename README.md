@@ -11,5 +11,5 @@
 
 6, Download "Remote desktop" on the play store and wait for the app to finish, once its done downloading, open the app, press on the "+" Button and "add PC", enter the PC name that you copied in "ngrok.com" URL, and click the arrow looking down and select "Add user account" and enter the username: "runneradmin" and enter the password: "P@ssw0rd!" , turn on admin mode and click on "save", click on the grey box and done.
 
-NOTE: If a box appeared on the screen with a password and a username, please enter: Username: runneradmin
+NOTE: If a box appeared on the screen with a password and a username, please enter: Username: runneradmin, 
                                                                                     Password: P@ssw0rd!
