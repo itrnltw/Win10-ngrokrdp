@@ -5,7 +5,7 @@
 
 3, Go to settings and press "Secrets and variables", and press create "New repository secret" and name the Secret "NGROK_AUTH_TOKEN", go to ngrok.com again and copy your auth token and paste it on the big box.
 
-4, Go to Actions and click on "All workflows" and select "CI", click on "run workflow", refresh the page and click on build and wait for the "create tunnel" is loading. that means that the "create tunnel" is the timer.
+4, Go to Actions and click on "All workflows" and select "Cracker-RDP", click on "run workflow", refresh the page and click on build and wait for the "create tunnel" is loading. that means that the "create tunnel" is the timer.
 
 5, Go to "ngrok.com" and click on Cloud Edge and Endpoints and copy the URL Text but not the "tcp://" (example: 0.tcp.ngrok.io:17241)
 
