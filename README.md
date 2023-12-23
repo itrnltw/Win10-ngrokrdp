@@ -1,5 +1,4 @@
-
-# Windows 10 in an android device
+# How to make a Win10 RDP with ngrok and github in any device (anything like apple, android and more)
 1, Fork this repository by pressing the fork button in the top right screen and clicking "create repository."
 
 2, Go to "ngrok.com" and sign up if your not yet a memeber in the ngrok team
